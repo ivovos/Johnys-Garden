@@ -1,0 +1,533 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"text-",
+				"text-medium"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-medium"
+			],
+			[
+				"tex",
+				"text-light"
+			],
+			[
+				"mde",
+				"medium-text"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"b",
+				"bg	background"
+			],
+			[
+				"active",
+				"active-column"
+			],
+			[
+				"ac",
+				"accent-blue"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"backgrou",
+				"background-color: 〔property〕"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"navb",
+				"navbar-shrink"
+			],
+			[
+				"pr",
+				"producer-nr"
+			],
+			[
+				"page",
+				"page-scroll"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"produce",
+				"produce-item"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"menu-",
+				"menu-label"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"nav",
+				"navbar-shrink"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 71.0,
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ivovos/GitHub/Facebook-Ad-Seq-Proto/app/index.html",
+		"/Users/ivovos/GitHub/Facebook-Ad-Seq-Proto/app/html/ivo-table.html",
+		"/Users/ivovos/GitHub/Facebook-Ad-Seq-Proto/app/scripts/main.js",
+		"/Users/ivovos/Dropbox (Personal)/Public/confirmEmail/responNotification-backup-code",
+		"/Users/ivovos/Dropbox (Personal)/Public/johnyPackList/index.html",
+		"/Users/ivovos/Dropbox (Personal)/Public/confirmEmail/index.html",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v8/less/style.less",
+		"/Users/ivovos/Dropbox (Personal)/002_JohnysGarden/Confirm-email/code.gs",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v8/less/mixins.less",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v8/mail/contact_me.php",
+		"/Users/ivovos/Dropbox (Personal)/Public/confirmEmail/app.js",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v8/js/contact_me.js",
+		"/Users/ivovos/Dropbox (Personal)/Public/confirmEmail/index_inline.html",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v8/index.html",
+		"/Users/ivovos/Downloads/barnes-webb-master/dev/sass/style.scss",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v9-new-nav/index.html",
+		"/Users/ivovos/Downloads/barnes-webb-master/dev/index.html",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v9-new-nav/less/style.less",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v4/index.html",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v8/TODO",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v8/js/app.js",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v8/js/cbpAnimatedHeader.js",
+		"/Users/ivovos/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v7/js/overlay.js",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v7/css/style.css",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v7/index.html",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v7/less/style.less",
+		"/Users/ivovos/Downloads/skrollr-master/examples/scripts/main.js",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v7/css/agency.css",
+		"/Users/ivovos/Dropbox (Personal)/003_Facebook/05_Prototypes/clickclick-@2x/style.css",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v6/index.html",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v7/css/style3.css",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v7/less/variables.less",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v7/less/agency.less",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v7/js/demo1.js",
+		"/Users/ivovos/Dropbox (Personal)/Public/overlay-demo/index3.html",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v6/js/agency.js",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v6/js/bootstrap.js",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v6/less/agency.less",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v6/css/bootstrap.css",
+		"/Users/ivovos/Downloads/FullscreenOverlayStyles 2/js/demo1.js",
+		"/Users/ivovos/Downloads/FullscreenOverlayStyles 2/js/classie.js",
+		"/Users/ivovos/Downloads/FullscreenOverlayStyles/css/demo.css",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v6/js/demo1.js",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v6/index_test.html",
+		"/Users/ivovos/Downloads/FullscreenOverlayStyles 2/index3.html",
+		"/Users/ivovos/Downloads/FullscreenOverlayStyles 2/index2.html",
+		"/Users/ivovos/Downloads/FullscreenOverlayStyles 2/index.html",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v5/js/agency.js",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v5/js/bootstrap.js",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v5/less/agency.less",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v5/index.html",
+		"/Users/ivovos/Dropbox/Public/JohnysGarden_v4/js/jqBootstrapValidation.js",
+		"/Users/ivovos/Dropbox/Public/JohnysGarden_v4/mail/contact_me.php",
+		"/Users/ivovos/Dropbox/Public/JohnysGarden_v4/js/contact_me.js",
+		"/Users/ivovos/Dropbox/Public/JohnysGarden_v4/less/agency.less",
+		"/Users/ivovos/Dropbox/Public/JohnysGarden_v4/index.html",
+		"/Users/ivovos/Dropbox (Personal)/Public/JohnysGarden_v4/less/agency.less",
+		"/Users/ivovos/Desktop/index.html",
+		"/Users/ivovos/Dropbox/Public/JohnysGarden_v4/css/agency.css",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/JohnnysGarden_V02_Backup/index.html",
+		"/Users/ivovos/Dropbox/Public/JohnysGarden_v4/less/mixins.less",
+		"/Users/ivovos/Dropbox/Public/JohnnysGarden_v4/less/mixins.less",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/JohnnysGarden_V02/mail/contact_me.php",
+		"/Users/ivovos/Downloads/FullscreenOverlayStyles/index3.html",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/JohnnysGarden_V02/js/contact_me.js",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/JohnnysGarden_V02/less/agency.less",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/JohnnysGarden_V02/config.codekit",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/JohnnysGarden_V02/index.html",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/JohnnysGarden_V02/js/cbpAnimatedHeader.js",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/JohnnysGarden_V02/css/bootstrap.css",
+		"/Users/ivovos/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/JohnnysGarden_V02/less/mixins.less",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/JohnnysGarden_V02/js/agency.js",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/JohnnysGarden_V02/css/animate.css",
+		"/Users/ivovos/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/JohnnysGarden_V02/css/agency.css",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/JohnnysGarden_V02/img/header/header-bg-dark.jpg",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/startbootstrap-agency-1.0.0/index.html",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/startbootstrap-agency-1.0.0/mail/contact_me.php",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/startbootstrap-agency-1.0.0/less/mixins.less",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/startbootstrap-agency-1.0.0/less/variables.less",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/startbootstrap-agency-1.0.0/less/agency.less",
+		"/Users/ivovos/Dropbox/002_JohnysGarden/startbootstrap-agency-1.0.0/css/agency.css",
+		"/Users/ivovos/Dropbox/000_IvoVosLTD/003_Portfolio/IVOVOS_Portfolio/pages/posts/project-one.html",
+		"/Users/ivovos/Dropbox/000_IvoVosLTD/003_Portfolio/IVOVOS_Portfolio/static/css/style.css",
+		"/Users/ivovos/Dropbox/Public/Johnysgarden_v3/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"modal",
+			"inflight",
+			"icon",
+			"clearfi",
+			"font-size",
+			"margin-left",
+			"noreply",
+			"no_reply",
+			"instagram",
+			"mail",
+			"location",
+			"locatoin",
+			"location",
+			"social",
+			"overlay",
+			"close",
+			"max-width:768",
+			"overlay",
+			"how it",
+			"step",
+			"overlay",
+			"menu",
+			"healy",
+			"delivery",
+			"deliveries",
+			"deliveies",
+			"btn-link",
+			"btn",
+			".btn",
+			".btn-link",
+			"btn-link",
+			"header",
+			"lead",
+			"bird",
+			"min-height",
+			"logo",
+			"navbar-default",
+			"navbar-defalt",
+			"nav",
+			"hero",
+			"header",
+			"navbar-nav",
+			"nav",
+			"overlay",
+			"bird",
+			"header",
+			"social-links",
+			"display:none",
+			"large",
+			"bird-test",
+			"header",
+			"media",
+			"delivery",
+			"pick-up",
+			"thanks",
+			"subscribing",
+			"snap",
+			"pick-up times",
+			"produce",
+			"max-width",
+			"selection",
+			"h4",
+			"the order list",
+			"carry",
+			"produce",
+			"location",
+			"deliveries",
+			"at each spot",
+			"how it works",
+			"p",
+			"how it works",
+			"delivery",
+			"class=\"\"",
+			"class\"\"",
+			"chart",
+			"chard",
+			"navbar-brand",
+			"navbar-default",
+			"container",
+			"include",
+			"nav",
+			"sticky",
+			"stick",
+			"sticky",
+			"collapse",
+			"active",
+			"inheri",
+			"color",
+			"@gray-d",
+			"#333",
+			"rgb(51",
+			"active",
+			"gray-darkest",
+			"darkest-gr",
+			"darkest-grey",
+			"active",
+			"collapse",
+			"nav",
+			"hover",
+			"letter-spacing",
+			"navbar-nav",
+			"float",
+			"nav li",
+			"red",
+			"retra",
+			"red",
+			"header",
+			"delivery",
+			"bird",
+			"-140",
+			">\n",
+			"livereload",
+			"live",
+			"bird",
+			"footer",
+			"ste",
+			"header",
+			"huge",
+			"uge",
+			"location",
+			"kale",
+			"bower",
+			"instagram",
+			"insta",
+			"trans",
+			"how it works",
+			"header",
+			"padding-bottom"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"col-sm-4",
+			"btn-link",
+			".link-btn:",
+			"delivery",
+			"produce"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/ivovos/GitHub/Facebook-Ad-Seq-Proto/fb-ad-sqe.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true
+}

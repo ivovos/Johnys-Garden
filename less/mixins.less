@@ -1,0 +1,78 @@
+// Bootstrap Button Variant
+
+.button-variant(@color; @background; @border) {
+	color: @color;
+	background-color: @background;
+	border-color: @border;
+
+	&:hover,
+	&:focus,
+	&:active,
+	&.active,
+	.open .dropdown-toggle& {
+		color: @color;
+		background-color: darken(@background, 10%);
+        border-color: darken(@border, 12%);
+	}
+	&:active,
+	&.active,
+	.open .dropdown-toggle& {
+		background-image: none;
+	}
+	&.disabled,
+	&[disabled],
+	fieldset[disabled] & {
+		&,
+		&:hover,
+		&:focus,
+		&:active,
+		&.active {
+			background-color: @background;
+			border-color: @border;
+		}
+	}
+
+	.badge {
+		color: @background;
+		background-color: @color;
+	}
+}
+
+// Background Features
+
+.background-cover() {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+// Font Selections
+
+.ui-font() {
+	font-family: "Gotham SSm A","Gotham SSm B", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.serif-font() {
+	font-family: "Archer SSm A", "Archer SSm B", "Georgia", Helvetica, Arial, sans-serif;
+}
+
+
+.body-font() {
+	font-family: "Archer SSm A", "Archer SSm B", "Georgia", serif;
+}
+
+.heading-font() {
+	font-family: "Gotham SSm A","Gotham SSm B", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	font-weight:800;
+}
+
+.non-selectable() {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}

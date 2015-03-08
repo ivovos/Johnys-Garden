@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="81px" height="80px" viewBox="0 0 81 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>mail-trans-default</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="mail-trans-default" sketch:type="MSArtboardGroup" transform="translate(0.040000, 0.000000)">
+            <g id="Fill-1051" sketch:type="MSLayerGroup" transform="translate(25.000000, 29.000000)"></g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(10.000000, 10.000000)">
+                <g id="Fill-203-+-Fill-1051" transform="translate(0.960000, 0.000000)" fill-opacity="0" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                    <path d="M30,60 C46.5698495,60 60,46.5663217 60,29.9982361 C60,13.4319144 46.5698495,0 30,0 C13.4283866,0 0,13.4319144 0,29.9982361 C0,46.5663217 13.4283866,60 30,60" id="Fill-203"></path>
+                </g>
+                <path d="M44.6679537,38.4473016 C44.6679537,39.6096497 43.7057169,40.6506417 42.6549061,40.6506417 L17.491812,40.6506417 C16.4410012,40.6506417 15.4787645,39.6096497 15.4787645,38.4473016 L15.4787645,21.7235161 C15.4787645,20.5600546 16.4410012,19.4967955 17.491812,19.4967955 L42.6549061,19.4967955 C43.7057169,19.4967955 44.6679537,20.5600546 44.6679537,21.7235161 L44.6679537,38.4473016 L44.6679537,38.4473016 Z" id="Stroke-3747" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M41.3320463,23.9530957 L29.96139,33.260788 L18.5907336,23.9530957" id="Stroke-3748" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M18.3822394,34.6022514 L22.5538266,31.990196" id="Stroke-3749" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+                <path d="M41.8957529,34.6022514 L37.7241657,31.990196" id="Stroke-3750" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

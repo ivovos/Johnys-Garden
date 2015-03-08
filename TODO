@@ -1,0 +1,30 @@
+TODO
+
+
+
+*	Nice to have
+**	Pretty Urgent
+***	Launch Stopper
+
+
+# Design
+
+*	Design Favicon
+
+
+## Dev
+
+***	Fix Chevron link
+**	Change Gotham to 400 (test on non-retina first)
+**	Rethink the Navigation
+** 	Confirmation email for List
+**	Change page to thank-you after subscribing
+* 	Fixed Hero Image
+*	Add hover effect to Locations
+** 	Remake bird positioning
+
+
+### Build
+
+**	Reference Minified files
+**	Test on Mobile
